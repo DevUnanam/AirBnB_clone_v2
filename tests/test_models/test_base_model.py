@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" """
+"""This script contains unit tests for the BaseModel class. """
 from models.base_model import BaseModel
 import unittest
 import datetime
@@ -9,7 +9,7 @@ import os
 
 
 class test_basemodel(unittest.TestCase):
-    """ """
+    """This class contains unit tests for the BAseModel class"""
 
     def __init__(self, *args, **kwargs):
         """ """
