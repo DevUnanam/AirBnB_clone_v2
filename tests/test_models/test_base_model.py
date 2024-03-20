@@ -12,13 +12,13 @@ class test_basemodel(unittest.TestCase):
     """This class contains unit tests for the BAseModel class"""
 
     def __init__(self, *args, **kwargs):
-        """ """
+        """constructor for the test_basemodel class"""
         super().__init__(*args, **kwargs)
         self.name = 'BaseModel'
         self.value = BaseModel
 
     def setUp(self):
-        """ """
+        """method called to prepare the test fixture"""
         pass
 
     def tearDown(self):
