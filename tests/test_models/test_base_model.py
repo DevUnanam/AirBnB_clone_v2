@@ -28,7 +28,7 @@ class test_basemodel(unittest.TestCase):
             pass
 
     def test_default(self):
-        """ """
+        """method to test the default behavior of BaseModel instantiation"""
         i = self.value()
         self.assertEqual(type(i), self.value)
 
