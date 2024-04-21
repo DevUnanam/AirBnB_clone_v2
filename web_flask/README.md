@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 uResources
 
 Read or watch:
@@ -28,3 +29,6 @@ General
     How to create a dynamic template (loops, conditions…)
     How to display in HTML data from a MySQL database
 
+=======
+this readme contains tasks done using flask on the airbnb clone
+>>>>>>> 80456ae28d0d42f19febaaa767fdff2de4cd8244
